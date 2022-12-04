@@ -1,18 +1,27 @@
+# Game LIFE flask project 
+
+Игра «Жизнь» (англ. Conway's Game of Life) — клеточный автомат 
+
+https://ru.wikipedia.org/wiki/%D0%98%D0%B3%D1%80%D0%B0_%C2%AB%D0%96%D0%B8%D0%B7%D0%BD%D1%8C%C2%BB
+
 ## Installation
 
 1. Create virtual environment
 
-linux
+Linux
+
 `python3 -m venv /path/to/new/virtual/environment`
 
-windows
+Windows
+
 `python -m venv /folder/to/new/virtual/environment`
 
 2. Activate virtual environment 
 
 Below \<venv\> - name of the directory where virtual environment is created
 
-Linux:
+Linux
+
 $ `source <venv>/bin/activate`
 
 Windows PowerShell	
@@ -42,3 +51,6 @@ or
 5. Open project in browser
 
 http://127.0.0.1:5000
+
+
+
