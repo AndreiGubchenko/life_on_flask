@@ -31,6 +31,10 @@ C:\> `<venv>\Scripts\activate.bat`
 
 `pip install requirements.txt`
 
+or 
+
+`pip install -U Flask`
+
 4. Run flask server
 
 `python -m flask run`
