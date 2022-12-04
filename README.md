@@ -10,7 +10,7 @@ windows
 
 2. Activate virtual environment 
 
-<venv> - name of the directory where virtual environment is created
+Below \<venv\> - name of the directory where virtual environment is created
 
 Linux:
 $ `source <venv>/bin/activate`
