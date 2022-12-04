@@ -6,6 +6,10 @@ https://ru.wikipedia.org/wiki/%D0%98%D0%B3%D1%80%D0%B0_%C2%AB%D0%96%D0%B8%D0%B7%
 
 ## Installation
 
+0. Clone or download and extract this repo in some folder
+
+Push on green button \<\>Code 
+
 1. Create virtual environment
 
 Linux
@@ -14,11 +18,11 @@ Linux
 
 Windows
 
-`python -m venv /folder/to/new/virtual/environment`
+`python -m venv /folder/of/new/virtual/environment`
 
 2. Activate virtual environment 
 
-Below \<venv\> - name of the directory where virtual environment is created
+Below \<venv\> - name of the directory where virtual environment is created (your /folder/of/new/virtual/environmen)
 
 Linux
 
